@@ -1,0 +1,4 @@
+- We redesigned the onboarding flow to be faster and more intuitive.
+- Stripe payments are now integrated.
+- Fixed a major login bug.
+- Cut dashboard load time by 60%.

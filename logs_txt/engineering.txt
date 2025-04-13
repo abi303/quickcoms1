@@ -1,0 +1,6 @@
+engineering
+Morning! Today I’ll be finishing up the API integration with Stripe and reviewing the PR from Friday. Also saw some flaky tests on the CI overnight — looking into that too.
+Got the Redis cache invalidation bug squashed over the weekend. I’ll push a patch this morning and then move on to setting up load testing for v2. :rocket:
+Working on responsive layout fixes for the dashboard on mobile — aiming to have a PR out before lunch. Might ping @alice-dev for some help with the new endpoint.
+Deployed the new logging pipeline to staging. It’s way easier to trace errors now — shout if you see anything off in the logs.
+:eyes: Just saw this, thanks @jay-backend. Let’s dig into the logs first thing tomorrow.

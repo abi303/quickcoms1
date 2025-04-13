@@ -1,0 +1,19 @@
+{
+    "channels": [
+      {
+        "name": "engineering",
+        "messages": [
+          {"text": "Fixed the API endpoint bug."},
+          {"text": "Refactored the DB schema."}
+        ]
+      },
+      {
+        "name": "finance",
+        "messages": [
+          {"text": "Reviewed Q1 expenses."},
+          {"text": "Prepared payroll."}
+        ]
+      }
+    ]
+  }
+  

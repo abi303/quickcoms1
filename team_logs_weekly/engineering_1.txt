@@ -1,0 +1,2 @@
+Fixed API endpoint bug
+Refactored DB schema
